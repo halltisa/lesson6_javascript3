@@ -12,8 +12,9 @@ Tisa Hall
 ### Project Description:
 In this assignment, we added moreimages to the show page.
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://halltisa.github.io/lesson6_javascript3/
+
+
 
 ### Lessons Learned in the Assignment:
 I learned to use the AppendChild method to attach nodes to the DOM tree.
